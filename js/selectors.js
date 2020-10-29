@@ -13,3 +13,7 @@ function lastImageSelector() {
 function divSelector() {
   return $('.pics')
 }
+
+function firstListItem() {
+  
+}
